@@ -6,13 +6,13 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-4">
-                <h5 class="text-center">Newly Added Document/s</h5>
+                <h5 class="text-center">Forwarded/Newly Added Document/s</h5>
           </div><!-- /.col -->
           <div class="col-sm-4">
-                <h5 class="text-center">Division's Document/s</h5>
+                <h5 class="text-center">Active Document/s</h5>
           </div><!-- /.col -->
           <div class="col-sm-4">
-                <h5 class="text-center">All Document/s</h5>
+                <h5 class="text-center">Your/Division Document/s</h5>
           </div><!-- /.col -->
         </div><!-- /.row -->
       </div><!-- /.container-fluid -->
